@@ -2,7 +2,7 @@
   "name": "third-party-provider",
   "version": "1.0.3",
   "description": "Api to interact",
-  "type": "module",
+  "type": "commonjs",
   "main": "./dist/src/index.js",
   "scripts": {
     "build": "tsc",
