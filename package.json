@@ -28,5 +28,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thoushif/bb-poc-lib.git"
-  }
+  },
+  "files": [
+    "dist",
+    "dist/types"
+  ]
 }
