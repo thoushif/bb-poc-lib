@@ -1,6 +1,6 @@
 {
   "name": "third-party-provider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Api to interact",
   "type": "module",
   "main": "./dist/src/index.js",
