@@ -2,7 +2,8 @@
   "name": "third-party-provider",
   "version": "1.0.0",
   "description": "Api to interact",
-  "main": "./dist/src/index.js",
+  "main": "./dist/src/index",
+  "types": "./dist/types",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
