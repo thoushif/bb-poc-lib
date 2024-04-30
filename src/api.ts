@@ -27,7 +27,7 @@ class ApiClient {
     const response = {
       customer: {
         id: uuidv4(),
-        name: name,
+        name: name + "!",
       },
     };
     return new Promise<any>((resolve) => {
